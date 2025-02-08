@@ -1,5 +1,10 @@
 ## :warning: Please read these instructions carefully and entirely first
 * Clone this repository to your local machine.
+* Run this Command to install json-server globally:  npm install -g json-server
+*  Check if json-server is installed by running: npx json-server -v
+*  Start the project by running this command:npm run serve-products
+*  Then, in second terminal run another command: npm start
+
 * Use your IDE of choice to complete the assignment.
 * Use Javascript or preferably Typescript to complete the assignment, other languages will not be considered unfortunately.
 * When you have completed the assignment, you need to  push your code to a public repository and send the link via email.
